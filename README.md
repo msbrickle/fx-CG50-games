@@ -11,15 +11,15 @@ To get the files on the calculator you need to connect it with a mini-USB USB-A 
 # Native support
 To play the following games you only need to copy the files on the device. File names are given in brackets:
 - Blackjack ([Blackjack.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Blackjack.g3a))
-- Doom ([CGDoom.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/CGDoom.g3a) AND [doom.wad](https://github.com/msbrickle/fx-CG50-games/blob/main/doom.wad). Both files are required to load the game)
-- Minecraft ([minecraft-FX.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minecraft-FX.g3a) AND [fxcraft](https://github.com/msbrickle/fx-CG50-games/tree/main/fxcraft). Both files are required to play the game)
+- Doom ([CGDoom.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/CGDoom.g3a) AND [doom.wad](https://github.com/msbrickle/fx-CG50-games/blob/main/doom.wad). Both files are required to load the game (arrows for walking, ALPHA is shooting)
+- Minecraft ([minecraft-FX.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minecraft-FX.g3a) AND [fxcraft](https://github.com/msbrickle/fx-CG50-games/tree/main/fxcraft). Both files are required to play the game (ALPHA is for switching modes, 8 is for walking forwards, arrows for direction, 7 is for breaking blocks, 9 is for placing. In floating mode, you can fill your item library from VARS)
 - Minesweeper ([minesweeperprizm19.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/minesweeperprizm19.g3a))
 - Snake ([Snake.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Snake.g3a))
 - A multiplayer racing sim
    - [racing.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/racing.g3a)
    - If you connect two calculators with a cable you were given with the calculator, you can play it in multiplayer. 
 - Another racing sim with better graphics ([Swervle.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/Swervle.g3a))
-- Hoppy Road: amazing graphics, works smoothly ([HoppyRoad.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/HoppyRoad.g3a))
+- Hoppy Road: amazing graphics, works smoothly ([HoppyRoad.g3a](https://github.com/msbrickle/fx-CG50-games/blob/main/HoppyRoad.g3a)) (only arrows)
 
 # Games for GameBoy
 While there are a few games made for this calculator, there are not that many of them. 
